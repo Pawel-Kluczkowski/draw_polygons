@@ -54,4 +54,5 @@ def main():
     wn.mainloop()
 
 
-main()
+if __name__ == '__main__':
+    main()
